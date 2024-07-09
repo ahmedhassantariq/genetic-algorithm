@@ -1,6 +1,3 @@
-
-# FA21-BCS-109(A)
-
 import random
 
 population = []
